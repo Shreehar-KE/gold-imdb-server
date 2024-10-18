@@ -16,7 +16,8 @@ public class ReviewService {
 
     public Review createReview(String reviewBody, String imdbId) {
         Review review = reviewRepository.insert(new Review(reviewBody));
-
+        Review test = new Review(reviewBody);
+        System.out.println(test);
 
         mongoTemplate.update(Movie.class)
                 .matching(Criteria.where("imdbId").is(imdbId))
