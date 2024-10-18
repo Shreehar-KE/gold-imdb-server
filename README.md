@@ -33,7 +33,7 @@ A Spring Boot-based API for managing movies and their reviews, using MongoDB for
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/gold-imdb-server.git
+   https://github.com/Shreehar-KE/gold-imdb-server.git
    cd gold-imdb-api
    ```
 2. **Configure environment variables:**
