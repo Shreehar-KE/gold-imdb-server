@@ -1,7 +1,7 @@
 # Client code
 [gold-imdb-client](https://github.com/Shreehar-KE/gold-imdb-client)
 
-# Movie Reviews API
+# Gold IMDb Server API
 
 A Spring Boot-based API for managing movies and their reviews, using MongoDB for data storage. This API provides endpoints for retrieving movie details, as well as creating and associating reviews with movies.
 
