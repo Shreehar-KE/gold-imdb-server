@@ -45,6 +45,8 @@ A Spring Boot-based API for managing movies and their reviews, using MongoDB for
       MONGO_CLUSTER=your_cluster_url
       ```
 3. **Run the Application from `MoviesApplication.java` using IntelliJ IDEA**
+4. **Access the API:**
+- The API will be available at http://localhost:8080/api/v1/
 
 ## API Endpoints
 ### Movies
