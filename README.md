@@ -1,18 +1,9 @@
 # Client code
-[gold-imdb-client](https://github.com/Shreehar-KE/gold-imdb-client)
+[movie-critix-client](https://github.com/Shreehar-KE/movie-critix-client)
 
 # Gold IMDb Server API
 
-A Spring Boot-based API for managing movies and their reviews, using MongoDB for data storage. This API provides endpoints for retrieving movie details, as well as creating and associating reviews with movies.
-
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Environment Configuration](#environment-configuration)
-- [Project Structure](#project-structure)
+A Spring Boot based API for managing movies and their reviews, using MongoDB for data storage. This API provides endpoints for retrieving movie details, as well as creating and associating reviews with movies.
 
 ## Features
 - Retrieve all movies or a single movie by its IMDb ID.
